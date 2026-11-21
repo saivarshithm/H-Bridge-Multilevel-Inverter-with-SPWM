@@ -1,0 +1,20 @@
+# Windows desktop.ini
+desktop.ini
+[Dd]esktop.ini
+
+# MATLAB temporary files
+*.asv
+*.m~
+slprj/
+*.slxc
+*.autosave
+
+# Scratch & temporary logs
+*.tmp
+report_text.txt
+extract.py
+
+# Local reference papers & docx drafts
+Artificial_Neural_Network_and_Newton_Raphson_ANN-NR_Algorithm_Based_Selective_Harmonic_Elimination_in_Cascaded_Multilevel.pdf
+Mini Project Final Report.docx
+
